@@ -1,0 +1,7 @@
+fr/insa/model/Product.class
+fr/insa/mock/ProductServiceMockDaoImpl.class
+fr/insa/service/impl/ProductServiceImpl.class
+fr/insa/service/ProductService.class
+fr/insa/service/impl/ProductOrderingServiceImpl.class
+fr/insa/model/ProductOrdering.class
+fr/insa/service/ProductOrderingService.class
